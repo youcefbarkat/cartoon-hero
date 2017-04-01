@@ -1,0 +1,28 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+font-size: 80px;
+color:pink;
+text-decoration:underline;
+}
+h2{
+font-size: 80px;
+color:yellow;
+			
+
+			
+}
+span{
+font-style:italic;
+}
+.small{
+font-size: 25px;
+
+}		
+#first{
+font-size: 100px
+}
+h2 span {
+text-decoration: line-through;
+}
