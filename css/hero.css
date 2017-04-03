@@ -1,20 +1,36 @@
 html, body{
 	font-family: Arial, sans-serif; 
 	margin: 0;
+	text-align: center;
+	font-size: 20px;
+	color: #1c673c;
+	
+
 }
 header{
-	background-color:#66ffb3; 
+	
+	
+	background-image: url(http://cdn.wallpapersafari.com/16/21/ysz03H.jpg); 
+	background-repeat: repeat;
 	padding: 40px;
 	text-align: center;
 }
-
+h2{text-shadow: 0 4px 12px white;
+	text-decoration: underline;
+}
+p{text-shadow: 0 4px 12px white;
+	color: black;
+}
 h1{font-size: 90px;
 	color: white;
+	margin: 0;
+	text-shadow: 0 4px 20px black;
 
 }
 header img{
 border-radius: 150px;
 width: 340px;
+box-shadow: 0 10px 20px black;
 border: 10px solid rgba(64, 86, 204, 0.22);
 }
 
@@ -36,6 +52,10 @@ ul{
 	padding: 0;
 	margin: 0;
 }
+li{
+	color: black;
+	text-shadow: 0 4px 12px white;
+}
 a{
 	color:rgb(68, 121, 162);
 	text-decoration: none; 
@@ -43,7 +63,8 @@ a{
 footer{
 	padding: 40px 20px;
 	margin-top: 20px;
-	background-color: #66ffb3;
+    	background-image: url(http://cdn.wallpapersafari.com/16/21/ysz03H.jpg); 
+	background-repeat: repeat;	
 }
 footer ul{ 
 	text-align: center;
